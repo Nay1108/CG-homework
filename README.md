@@ -3,3 +3,4 @@
 # 实现功能
 万有引力粒子群仿真
 # 效果展示gif
+![效果图](https://github.com/Nay1108/CG-homework/blob/main/Experiment0_TaichiGravitySwarm16.62FPS2026-03-1916-13-33-ezgif.com-video-to-gif-converter.gif?raw=true)
